@@ -1,1 +1,1 @@
-$ Grep '^'$ myGrepFile.txt
+grep '^$' myGrepFile.txt
